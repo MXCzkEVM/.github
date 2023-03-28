@@ -12,4 +12,4 @@
 
 ## Job openings
 
-Please check [this](https://matchx-gmbh.jobs.personio.de/job/1064961)
+- Please check [this](https://matchx-gmbh.jobs.personio.de/job/1064961)
