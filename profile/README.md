@@ -9,3 +9,7 @@
 - The following table aims to summarize the zkEVM compatibility with the [official Ethereum test vectors](https://github.com/ethereum/tests)
 - The test vectors targeted are located [here](https://github.com/ethereum/tests/tree/develop/BlockchainTests/GeneralStateTests)
 - Detailed information could be found in the [Documents](https://mxczkevm.github.io/SupernodeV2-devdocs/docs/intro)
+
+## Job openings
+
+Please check [this](https://matchx-gmbh.jobs.personio.de/job/1064961)
